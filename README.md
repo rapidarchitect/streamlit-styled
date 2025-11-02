@@ -2,6 +2,8 @@
 
 A Streamlit-based cryptocurrency dashboard featuring real-time crypto price data with custom CSS styling. This project demonstrates how to create a professional-looking dashboard using Streamlit with custom fonts, colors, and layouts.
 
+![Crypto Dashboard Screenshot](screenshot.png)
+
 ## Features
 
 - **Real-time Crypto Prices**: Display live prices for BTC, ETH, XMR, SOL, and XRP using DIA API
