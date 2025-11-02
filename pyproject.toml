@@ -1,0 +1,13 @@
+[project]
+name = "streamlit-css"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx>=0.28.1",
+    "lightweight-charts>=2.1",
+    "streamlit-charts>=0.1.1",
+    "streamlit-lightweight-charts>=0.7.20",
+    "watchdog>=6.0.0",
+]
